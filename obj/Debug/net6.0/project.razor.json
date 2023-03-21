@@ -15665,6 +15665,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\ademo\\source\\repos\\Lafia\\Pages\\cal.razor",
+      "TargetPath": "Pages\\cal.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\ademo\\source\\repos\\Lafia\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
